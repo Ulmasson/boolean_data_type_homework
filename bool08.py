@@ -8,4 +8,4 @@ def main(a):
     """
     # Write your code here
     return bool(a>=1)
-    print(main(0))
+print(main(3))
