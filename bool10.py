@@ -8,5 +8,5 @@ def main(a):
         bool
     """
     # Write your code here
-    return bool(math.sqrt(a))%1==0
-    print(main(16))
+    return (math.sqrt(a))%1==0
+print(main(16))
