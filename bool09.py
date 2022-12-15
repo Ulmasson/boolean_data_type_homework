@@ -8,4 +8,4 @@ def main(a):
     """
     # Write your code here
     return bool(a>=0)
-print(main(0))
+print(int(main(1)))
